@@ -2,11 +2,16 @@ let num1 = 31
 let num2 = 2
 let multiply = num1 * num2
 
-let random = 2
-Math.floor(math.random() * 3) + 1
+let random = Math.floor(Math.random() *3) +1
 
 
-let num3 =16
+let num3 = 17;
+let num4 = 13;
+let mod = num3 % num4;
+
+let max = Math.max(10,20)
+
+
 
 
 
